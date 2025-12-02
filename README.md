@@ -7,10 +7,10 @@ Welcome to my GitHub profile! I'm **Abdullahi Osman**, a passionate **Data Engin
 
 ## 🚀 About Me
 
-- 📍 **Location:** Canada
+- 📍 **Location:** Toronto, Canada
 - 🛠️ **Profession:** Data Engineer & Cloud Enthusiast
 - 🏗️ **Expertise:** Designing and implementing robust ETL pipelines, data warehouses, and analytics platforms
-- 💻 **Tech Stack:** Python • SQL • Apache Spark • Airflow • Snowflake • MongoDB • Cassandra
+- 💻 **Tech Stack:** Python • SQL • Apache Spark • Airflow • Snowflake • Oracle • MongoDB • Cassandra
 - 🤖 **Interests:** Machine learning and AI integrations in data pipelines
 - 🌱 **Philosophy:** Active open-source collaborator and continuous learner
 
@@ -31,10 +31,10 @@ Welcome to my GitHub profile! I'm **Abdullahi Osman**, a passionate **Data Engin
 
 ### **Cloud & Infrastructure**
 - **Platforms:** Azure | AWS | Snowflake | Databricks | IBM Cloud | OCI
-- **Tools:** Docker | Git | Terraform | CI/CD
+- **Tools:** Docker | Git | Terraform | CI/CD | Ansible
 
 ### **Analytics & Visualization**
-- Looker Studio | Cognos Analytics | Tableau
+- Power BI | Looker Studio | Cognos Analytics | Tableau
 
 ---
 
